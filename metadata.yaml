@@ -1,0 +1,43 @@
+_repo: Laakarin-muistelmia-Historiallinen-romaani-Ludvig-XVn-hovista_54052
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2017-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54052'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XV, 1715-1774 -- Fiction'
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+- !lcsh 'Du Barry, Jeanne Bécu, comtesse, 1743-1793 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Lääkärin muistelmia: Historiallinen romaani Ludvig XV:n hovista'
+url: http://www.gutenberg.org/ebooks/54052
